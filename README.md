@@ -24,8 +24,11 @@ Use inference_classifier.py to run real-time detection via webcam.
 # Dependencies
 
 OpenCV: For image capture and processing.
+
 MediaPipe: For hand landmark detection.
+
 NumPy: For data handling and manipulation.
+
 Scikit-learn: For machine learning model training.
 
 # Project Structure:
